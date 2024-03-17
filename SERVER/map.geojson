@@ -1,0 +1,452 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78.0421, 27.1751]
+      },
+      "properties": {
+        "name": "Taj Mahal",
+        "remark": "Iconic white marble mausoleum",
+        "country": "India"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [77.2405, 28.5245]
+      },
+      "properties": {
+        "name": "Qutub Minar",
+        "remark": "Tallest brick minaret in the world",
+        "country": "India"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.4778, 15.3350]
+      },
+      "properties": {
+        "name": "Hampi",
+        "remark": "Ancient temple complex",
+        "country": "India"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [75.7069, 20.5509]
+      },
+      "properties": {
+        "name": "Ajanta Caves",
+        "remark": "Buddhist cave monuments",
+        "country": "India"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [77.2423, 28.6562]
+      },
+      "properties": {
+        "name": "Red Fort",
+        "remark": "Historic fort complex",
+        "country": "India"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [79.9257, 24.8353]
+      },
+      "properties": {
+        "name": "Khajuraho Group of Monuments",
+        "remark": "Famous for erotic sculptures",
+        "country": "India"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [75.1781, 19.8941]
+      },
+      "properties": {
+        "name": "Ellora Caves",
+        "remark": "Rock-cut cave temples",
+        "country": "India"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78.0218, 27.1751]
+      },
+      "properties": {
+        "name": "Agra Fort",
+        "remark": "Historic fort in Agra",
+        "country": "India"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [77.7375, 23.4857]
+      },
+      "properties": {
+        "name": "Sanchi Stupa",
+        "remark": "Ancient Buddhist monument",
+        "country": "India"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [86.0886, 19.8876]
+      },
+      "properties": {
+        "name": "Konark Sun Temple",
+        "remark": "Sun temple in Odisha",
+        "country": "India"
+      }
+    },
+      {
+    "properties": {
+        "name": "Mysore Palace",
+        "remark": "Historic royal palace in Karnataka",
+        "country": "India"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78.1348, 9.9252]
+      },
+      "properties": {
+        "name": "Meenakshi Temple",
+        "remark": "Historic Hindu temple in Tamil Nadu",
+        "country": "India"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [79.1405, 10.7828]
+      },
+      "properties": {
+        "name": "Brihadeeswarar Temple",
+        "remark": "Large ancient Hindu temple in Tamil Nadu",
+        "country": "India"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.9464, 8.5032]
+      },
+      "properties": {
+        "name": "Sree Padmanabhaswamy Temple",
+        "remark": "Hindu temple in Kerala with a vault containing treasures",
+        "country": "India"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.2426, 9.9592]
+      },
+      "properties": {
+        "name": "Mattancherry Palace",
+        "remark": "Historic palace in Kochi, Kerala",
+        "country": "India"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [75.3776, 12.3677]
+      },
+      "properties": {
+        "name": "Bekal Fort",
+        "remark": "Historic fort in Kerala",
+        "country": "India"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.0449, 10.5976]
+      },
+      "properties": {
+        "name": "Guruvayur Temple",
+        "remark": "Hindu temple in Kerala dedicated to Lord Krishna",
+        "country": "India"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78.6765, 9.0579]
+      },
+      "properties": {
+        "name": "Chettinad Palace",
+        "remark": "Historic mansion in Tamil Nadu known for its architecture",
+        "country": "India"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.2144, 9.9658]
+      },
+      "properties": {
+        "name": "Dutch Palace",
+        "remark": "Historic palace in Kochi, Kerala",
+        "country": "India"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [75.8249, 26.9260]
+      },
+      "properties": {
+        "name": "Jantar Mantar",
+        "remark": "Historic astronomical observatory in Jaipur, Rajasthan",
+        "country": "India"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [73.0222, 26.2984]
+      },
+      "properties": {
+        "name": "Mehrangarh Fort",
+        "remark": "Historic fort in Jodhpur, Rajasthan",
+        "country": "India"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [75.8267, 26.9239]
+      },
+      "properties": {
+        "name": "Hawa Mahal",
+        "remark": "Palace of winds in Jaipur, Rajasthan",
+        "country": "India"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [88.3429, 22.5448]
+      },
+      "properties": {
+        "name": "Victoria Memorial",
+        "remark": "Historic monument in Kolkata, West Bengal",
+        "country": "India"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78.4081, 17.3850]
+      },
+      "properties": {
+        "name": "Golconda Fort",
+        "remark": "Historic fort in Hyderabad, Telangana",
+        "country": "India"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78.4744, 17.3616]
+      },
+      "properties": {
+        "name": "Charminar",
+        "remark": "Historic monument in Hyderabad, Telangana",
+        "country": "India"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [75.8567, 26.9855]
+      },
+      "properties": {
+        "name": "Amer Fort",
+        "remark": "Historic fort in Jaipur, Rajasthan",
+        "country": "India"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [77.6631, 27.1001]
+      },
+      "properties": {
+        "name": "Humayun's Tomb",
+        "remark": "Mughal architecture in Delhi, India",
+        "country": "India"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78.0701, 27.1710]
+      },
+      "properties": {
+        "name": "Mughal Gardens",
+        "remark": "Gardens in Rashtrapati Bhavan, Delhi, India",
+        "country": "India"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [77.2295, 28.6129]
+      },
+      "properties": {
+        "name": "India Gate",
+        "remark": "War memorial in New Delhi, India",
+        "country": "India"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [77.6602, 27.0940]
+      },
+      "properties": {
+        "name": "Fatehpur Sikri",
+        "remark": "Historic city in Uttar Pradesh, India",
+        "country": "India"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [70.9176, 26.9157]
+      },
+      "properties": {
+        "name": "Jaisalmer Fort",
+        "remark": "Historic fort in Rajasthan, India",
+        "country": "India"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [73.6814, 24.5785]
+      },
+      "properties": {
+        "name": "Udaipur City Palace",
+        "remark": "Historic palace in Rajasthan, India",
+        "country": "India"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [71.7859, 23.8409]
+      },
+      "properties": {
+        "name": "Rani ki Vav",
+        "remark": "Stepwell in Gujarat, India",
+        "country": "India"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [75.3887, 19.8799]
+      },
+      "properties": {
+        "name": "Bibi Ka Maqbara",
+        "remark": "Tomb in Aurangabad, Maharashtra, India",
+        "country": "India"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [74.8737, 24.8887]
+      },
+      "properties": {
+        "name": "Chittorgarh Fort",
+        "remark": "Historic fort in Rajasthan, India",
+        "country": "India"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.5144, 25.3528]
+      },
+      "properties": {
+        "name": "Ranthambore Fort",
+        "remark": "Historic fort in Rajasthan, India",
+        "country": "India"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78.1448, 27.0294]
+      },
+      "properties": {
+        "name": "City Palace, Jaipur",
+        "remark": "Historic palace in Rajasthan, India",
+        "country": "India"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [73.6846, 26.2925]
+      }
+    }
+
+]
+}
